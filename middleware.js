@@ -19,5 +19,5 @@ export async function middleware(req) {
 export const config = {
   matcher: ["/admin_home", "/admin_items", "/about(.*)", "/searchresults(.*)",
     "/home", "/api/add", "/api/getAll", "/api/getAll/users", "/api/users", "/api/auth",
-    "/api/delete", "/api/search", "/api/update", "/api/add/users"],
+    "/api/delete", "/api/search", "/api/update", "/api/upload", "/api/add/users"],
 };
