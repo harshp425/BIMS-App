@@ -29,22 +29,29 @@ BIMS is an interactive web application developed as the primary inventory manage
 
 ## Workflow
 ### Step 1: User Login
-Users and admins log in with their credentials to access respective dashboards.
+Users and admins log in with their credentials to access thier respective dashboards. If a user had not logged in before, they must first sign up and provide the necessary information for registration. Admins don't require registration as admins will be provided thier credentials.
+
+https://github.com/user-attachments/assets/e0b4d340-aeb1-4712-94fe-5e4e98532074
 
 ### Step 2: Tool Search (Users)
 - Search bar: Users enter keywords to query the inventory.
-- Search results: Display relevant tools, machines, or equipment.
-- Tool details: Upon selecting a tool, users can view:
-    - Specifications and uses
+      - Users can query tools by name, location, uses, and specifications
+- Search results: Display relevant tools, machines, or equipment to the user as matched by the query provided.
+- Tool details: Upon selecting a tool, users can view more detailed information such as:
+    - Specifications
+    - Uses
     - Images
-    - Location and training requirements
+    - Location
+    - Training Requirements
     - Special comments
+      
 ### Step 3: Admin Dashboard
 - User Insights:
     - View user logs and latest searches.
     - Gain actionable insights for budgeting and equipment planning.
 - Inventory Management:
     - Add, delete, or edit tool information through a user-friendly interface.
+      
 ### Step 4: Query Tracking (Coming Soon)
 Admins will be able to track user queries in real time to:
   - Identify the most frequently searched tools.
