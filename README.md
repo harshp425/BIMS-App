@@ -43,6 +43,7 @@ https://github.com/user-attachments/assets/e0b4d340-aeb1-4712-94fe-5e4e98532074
     - Images
     - Location
     - Training Requirements
+    - Required PPE
     - Special comments
       
 ### Step 3: Admin Dashboard
