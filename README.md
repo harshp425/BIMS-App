@@ -45,13 +45,29 @@ https://github.com/user-attachments/assets/e0b4d340-aeb1-4712-94fe-5e4e98532074
     - Training Requirements
     - Required PPE
     - Special comments
-      
+
+<img width="1470" alt="Screenshot 2025-01-20 at 8 51 13 PM" src="https://github.com/user-attachments/assets/7bff2973-bfef-46f5-8f9e-6254793de68c" />
+
+https://github.com/user-attachments/assets/d489170d-0eee-4f9b-bbd1-d308f9baef48
+
+https://github.com/user-attachments/assets/46da62e4-c8f2-4ae3-90b1-9498d91b2c56
+
+
 ### Step 3: Admin Dashboard
 - User Insights:
     - View user logs and latest searches.
     - Gain actionable insights for budgeting and equipment planning.
 - Inventory Management:
     - Add, delete, or edit tool information through a user-friendly interface.
+
+<img width="1470" alt="Screenshot 2025-01-20 at 8 54 56 PM" src="https://github.com/user-attachments/assets/656aa65c-56b9-47f1-8345-f4078a219b72" />
+
+https://github.com/user-attachments/assets/3931e94f-8529-4080-9703-65cd31559392
+
+https://github.com/user-attachments/assets/9695970a-fefe-42aa-a7dc-61bfac7e7eed
+
+https://github.com/user-attachments/assets/ee333db9-10fc-49da-8050-66f47f069b90
+
       
 ### Step 4: Query Tracking (Coming Soon)
 Admins will be able to track user queries in real time to:
