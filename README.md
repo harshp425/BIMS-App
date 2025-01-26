@@ -31,6 +31,8 @@ BIMS is an interactive web application developed as the primary inventory manage
 ### Step 1: User Login
 Users and admins log in with their credentials to access thier respective dashboards. If a user had not logged in before, they must first sign up and provide the necessary information for registration. Admins don't require registration as admins will be provided thier credentials.
 
+***Note: All regular users will have a shared password which will be provided within the lab. This is a purposeful design decision as per user requirements.***
+
 https://github.com/user-attachments/assets/e0b4d340-aeb1-4712-94fe-5e4e98532074
 
 ### Step 2: Tool Search (Users)
