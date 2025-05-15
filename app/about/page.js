@@ -7,6 +7,8 @@ import { Input } from "@/components/ui/input";
 import { useRouter } from 'next/navigation';
 import { useSession } from "next-auth/react";
 import { redirect } from "next/navigation";
+import LaunchIcon from '@mui/icons-material/Launch';
+import Link from 'next/link';
 
 
 function LoadingSpinner() {
@@ -19,7 +21,6 @@ function LoadingSpinner() {
 
 export default function About() {
 
-  // Define all hooks at the top level first
   const { data: session, status } = useSession({
     required: true,
     onUnauthenticated() {
@@ -33,7 +34,6 @@ export default function About() {
 
 
   useEffect(() => {
-    // Retrieve the tool object from session storage
     const storedTool = sessionStorage.getItem('tool');
     if (storedTool) {
       setSelectedTool(JSON.parse(storedTool));
@@ -46,19 +46,19 @@ export default function About() {
     }
   };
 
-  // Then handle loading/error states
   if (status === "loading") {
     return <LoadingSpinner />;
   }
 
-  // Then handle loading/error states
   if (status === "unauthenticated") {
     redirect('/');
   }
 
   return (
     <div>
-      <Navbar />
+      <Navbar
+        home_redirect={(session.user?.title === 'admin') ? '/admin_home' : '/home'}
+      />
 
       {/* Search Section */}
       <div className=" bg-gradient-to-br from-primary-70 to-primary-100 flex justify-center p-4 sm:p-7 md:p-9">
@@ -96,7 +96,18 @@ export default function About() {
           {/* Left Section: Tool Name and Image */}
           <div className="flex flex-col items-center md:items-start w-full md:w-1/2 space-y-4">
             {/* Tool Name */}
-            <h2 className="text-2xl font-bold">{selectedTool.name}</h2>
+            <div className='flex'>
+              <h2 className="text-2xl font-bold">{selectedTool.name}</h2>
+              <Link target="_blank"
+                rel="noopener noreferrer" href={selectedTool.documentationManuals ? selectedTool.documentationManuals : "https://www.google.com/"}>
+                <LaunchIcon className='ml-1 mt-1' sx={{
+                  color: 'inherit',
+                  '&:hover': {
+                    color: '#5179e0',
+                  },
+                }} />
+              </Link>
+            </div>
             {/* Tool Image */}
             <img
               src={selectedTool.image_path === '' || !selectedTool.image_path ? '/images/default.jpg' : selectedTool.image_path}
