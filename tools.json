@@ -1,0 +1,74 @@
+[
+  {
+    "name": "LulzbotTAZ Workhorse (3D Printer)",
+    "image_path": "/images/1737416428460-lulzbottaz-workhorse--3d-printer-.jpg",
+    "uses": "- 3D printing with a variety of materials, including flexible and reinforced filaments, for creating prototypes, parts, and models.\n- Suitable for industrial, educational, and personal use due to its versatile material support and large print volume.",
+    "location": "Classroom",
+    "specs": "- Boxed Unit Weight: 20.86 kg (46 lbs)\n- Unit Weight: 16.78 kg (37 lbs) without filament spool\n- Boxed Dimensions: 88.9 cm x 30.48 cm x 66.04 cm (35 in x 12 in x 26 in)\n- Dimensions with 1kg Filament Spool: 83 cm x 71 cm x 52 cm (32.67 in x 28 in x 20.47 in)   \n- Filament Diameter: 2.85 mm\n- Supported Materials: Open filament system compatible with PLA, ABS, Nylon, Polycarbonate, Carbon Fiber Reinforced Blends, TPU 85A & 95A (Flexible), PETG, PETT, Copolyester, PVB (Polycast), PVA, HIPS, and many more 3rd party filaments.\n- Print Volume Dimensions: 280 mm x 280 mm x 285 mm (11.02 in x 11.02 in x 11.22 in)\n- Print Volume: 22,344 cm³ (1,362.56 in³)\n- Ambient Operating Temperature From 5°C to 45°C (41°F to 113°F)\n- Operating Footprint: 83.2 cm x 71 cm x 52 cm (32.76 in x 28 in x 20.47 in)\n- Maximum Travel Speed: 300 mm/sec\n- Leveling: Automatic Compensation\n- Calibration: Backlash Compensation\n- Connectivity: USB Serial or SD Card with Included 8gb SD Card\n- Nozzle Diameter: 0.50 mm\n- Nozzle Temperature: Up to 290°C (554°F)\n- Nozzle Heatup Time: From 23°C to 210°C (73°F to 410°F) in 73 seconds\n- Print Surface: Modular Heated Borosilicate Glass/PEI\n- Maximum Print Bed Temperature        Up to 120°C (248°F)\n- Print Bed Heat Up Time From 18°C to 100°C (64°F to 212°F) in 10 minutes, 45 seconds\n- Layer Resolution: 0.05mm-0.90mm (0.02\"\"-0.035\"\")\n- Minimum Positive Feature Size: 0.5 mm (0.02 in)\n- Calculated XYZ positional resolution: 10, 10, <1 micron",
+    "special_comments": "N/A",
+    "required_ppe": "None",
+    "required_training": "N/A",
+    "documentationManuals": "https://download.lulzbot.com/TAZ/TAZ_WE/v1.0.2/documentation/Quick_Start_Guide/TAZ_Workhorse_QuickStartGuide_08-2019.pdf"
+  },
+  {
+    "name": "Instron 5969",
+    "image_path": "/images/1737416704269-instron-5969.jpg",
+    "uses": "- Material Testing: Used for tensile, compression, and flexural testing of materials to measure strength, elasticity, and other mechanical properties.\n- Component Testing: Used in testing individual components or parts for stress, strain, and other physical properties, ensuring they meet safety and performance standards.\n- Fatigue Testing: Performs cyclic loading tests to determine the durability and fatigue resistance of materials.\n- Customized Testing: Supports a wide range of optional grips, fixtures, and temperature chambers to conduct specialized tests based on the material or application.",
+    "location": "Classroom",
+    "specs": "- Load measurement accuracy: +/- 0.5% of reading down to 1/1000 of load cell capacity option (2580 Series load cells)\n- Up to 2.5 kHz data acquisition rate option simultaneous on load, extension, and strain channels\n- Speed range of 0.001 - 3000 mm/min (0.00004 -120 in/min), depending on the model\n- Customizable control panel\n- Automatic gain adjustment (allows closed loop strain control)\n- Compatible with Bluehill® Software / Instron® Remote Technical Support (RTS)\n- Specimen Protect\n- Automatic transducer recognition for load cells and extensometers\n- Extra height and width options available\n- Thousands of optional grips and fixtures\n- Optional temperature chambers\n- Full CE compliance\n- Capacity: 50 kN",
+    "special_comments": "N/A",
+    "required_ppe": "Eyeglasses",
+    "required_training": "N/A",
+    "documentationManuals": "https://www.instron.com/-/media/literature-library/manuals/5960-dual-column-table-frames-operator-guide.pdf?la=en&ch=245&sc_lang=en&ch=245"
+  },
+  {
+    "name": "Quincy lab, Inc. 40GC Gravity Convection Oven",
+    "image_path": "/images/1737416954632-oven.jpeg",
+    "uses": "- Drying and Dehydration: Used for drying materials, such as laboratory samples, glassware, and various substances that require moisture removal at controlled temperatures.\n- Curing: Ideal for curing paints, coatings, adhesives, and resins by providing consistent heat to promote the chemical bonding process.\n- Heat Treatment: Used for heat-treating metals, polymers, or ceramics to alter their physical properties for testing or production processes.\n- Temperature Testing: Suitable for testing the stability and performance of products in high-temperature environments.",
+    "location": "Classroom",
+    "specs": "- Max Temperature: 232°C (450°F)\n- Volume: 3 cu ft (85 L)\n- Outside Dimensions (WxHxD): 20 x 31.5 x 16.3\"\" (50.8 x 80 x 41.4 cm)\n- Chamber Dimensions (WxHxD): 18 x 21.8 x 14\"\" (45.7 x 55.4 x 35.6 cm)\n- Power: 115V / 13.9A / 1600W\n- Operating Temperature Range: Ambient +9° to 232°C / Ambient +25° to 450°F\n- Type of Thermostat: Hydraulic\n- Shelves Included/Maximum (1\"\" Centers): 3 (1 Fixed, 2 Adjustable)/22\n- Maximum weight per shelf: 35 lbs",
+    "special_comments": "N/A",
+    "required_ppe": "Eyeglasses\nHeat Gloves",
+    "required_training": "None"
+  },
+  {
+    "name": "SawStop Table Saw",
+    "uses": "- Woodworking: Ideal for precise cutting of wood, plywood, and other wood-based materials for creating furniture, cabinetry, and structural components.\n- Heavy-Duty Applications: With its 3 HP motor and robust construction, it's suitable for demanding cutting tasks and large-scale woodworking projects.",
+    "image_path": "/images/1737417449256-sawstop-table-saw.jpg",
+    "location": "Materials Lab",
+    "specs": "- SawStop’s patented safety system\n- Riving knife reduces the risk of kickback\n- Tool-free quick-change blade guard mount\n- Diagnostic system ensures the saw is ready to respond\n- Dust-Collection Blade Guard\n- 36\"\" Professional T-Glide Fence System provides smooth operation and precise measurement\n- Overall Saw Dimensions (W x D x H): 69-1/8\"\" x 33\"\" x 34\"\"\n- Cabinet Footprint (W x D): 19-3/8\"\" x 19-3/8\"\"\n- Cast-Iron Table (W x D): 20\"\" w x 27\"\" d\n- Cast-Iron Table Size with Extension Wings (W x D): 44\"\" w x 27\"\" d\n- Motor: 3 HP, 1-Phase, 230V, 13A\n- Weight: 426 lbs.\n- Blade: 40-tooth, professional grade, 5/8\"\" arbor\n- Blade Diameter: 10\"\"\n- Blade Tilt: left\n- Blade Kerf: 0.118\"\" (3 mm)\n- Blade Plate Thickness: 0.078\"\"\n- Maximum Depth of Cut - Blade at 0º: 3-1/8\"\"\n- Maximum Depth of Cut - Blade at 45º: 2-1/4\"\"\n- Maximum Rip - Left of the Blade: 12\"\"\n- Dado Diameter: 8\"\" (requires a separate brake cartridge and table insert)\n- Maximum Dado Width: 13/16\"\"\n- Arbor Diameter at Blade: 5/8\"\"\n- Table in Front of Blade - Maximum Elevation: 10-1/4\"\"\n- Table Behind the Blade - Maximum Elevation: 7-1/2\"\"\n- Table Flatness Measured Diagonally: 0.010\"\" maximum gap\n- Miter Slots: T-shaped, 3/4\"\" at top, 1\"\" at bottom, 3/8\"\" deep\n- Dust-Collection Port Diameter: 4\"\"\n- Riving Knife/Splitter Thickness: 0.078\"\" (2 mm)\n- Blade guard: polycarbonate, extends only 5/8\"\" to right of blade",
+    "special_comments": "Obtain key from Jim or consult with Sam, Harsh, Amy, Alex, or Indy",
+    "required_ppe": "Eyeglasses\nNo gloves",
+    "required_training": "See Jim or Sam for training instructions/walkthrough"
+  },
+  {
+    "name": "Power Mig Welder",
+    "uses": "- Welding Applications: Ideal for welding various materials, including mild steel, stainless steel, and aluminum, using MIG (Metal Inert Gas) welding processes.\n- Versatile Material Handling: Capable of handling various wire types and thicknesses with its split wire guide system and brass-to-brass connections, making it adaptable for different welding tasks.",
+    "image_path": "/images/1737417696304-power-mig-welder.jpg",
+    "location": "Welding Lab",
+    "specs": "- Features dual driven rolls, regulated wire feed speed control, brass-to brass connections and Lincoln’s 100% wire supporting split wire guide system.\n- 15 ft. (4.5 m) gun and cable\n- Industrial Output of 30-300 Amps\n- Input Voltage: 575,460,220/230/240\n- Input Current: 50/24/19A\n- Input Hertz: 60\n- Input Power: 230/460/575/1/60\n- Input Phase: 1\n- Output Range: 30-300A DC\n- Polarity: DC\n- Rated Output: 250A/26V/40%",
+    "special_comments": "- Please do not wear shorts or leave skin exposed\n- Please consult with Jim or Sam before using",
+    "required_ppe": "Welding Helmet\nWelding Jacket\nWelding Gloves\n",
+    "required_training": "Please see Jim or Sam for training and supervision"
+  },
+  {
+    "name": "DoAll Vertical Bandsaw",
+    "image_path": "/images/1737423515344-doall-vertical-bandsaw.jpg",
+    "uses": "- Cutting Various Materials: Ideal for cutting a wide range of materials, including metals, plastics, and wood.\n- Contour Cutting: Suitable for intricate cuts, including curves and complex shapes. \n- Resawing: Used to cut larger pieces of material into thinner sections or smaller sizes.",
+    "location": "Fabrication Lab",
+    "specs": "- Weight: 1850 Lbs.\n- Floor Dimensions: 41″ x 74″ x 77-1/2″\n- Throat, Band to Column: 35-1/2″\n- Maximum Work Height: 13″\n- Band Width: 1/16″ to 1″\n- Band Speed, Variable: 5 – 300 FPM(Low) / 850 – 5200 FPM(High)\n- Worktable Size: 26″ x 26″ Tilting Table\n- Saw Band Length: 125″(2-Wheel Drive) / 175″(3-Wheel Drive)\n- Main Motor HP: 3\n- Electrical: 460V/3PH",
+    "special_comments": "Please do not wear gloves",
+    "required_ppe": "Eyeglasses",
+    "required_training": "None"
+  },
+  {
+    "name": "Powermatic Belt and Disc Sander",
+    "image_path": "/images/1737424779085-powermatic-belt-and-disc-sander.jpg",
+    "uses": "- Smoothing Surfaces: Ideal for smoothing rough surfaces on wood, metal, or plastics.\n- Shaping and Contouring: Used for shaping edges and contours in woodworking and metalworking projects.\n- Angle Sanding: Multi-position belt head locks at angles from 0° to 90°, allowing for a range of sanding angles.\n- Material Preparation: Prepares materials for painting, staining, or assembly by sanding down uneven or rough areas.",
+    "location": "Fabrication Lab",
+    "specs": "- 12\"\" Disc is balanced for flat, even coverage\n- 6\"\" x 48\"\" sanding belt can be changed and adjusted quickly and easily\n- Belt and disc tables are precision ground cast iron with miter slots for precision and rigidity\n- Belt table tilts down to 45°, and can be set for beveled and mitered angle sanding\n- Full cast iron platen with solid crowned aluminum drums for smooth sanding belt movement and support\n- Multi-position belt head locks at any angle from 0° to 90°; includes indexing pin for 0, 45°, and 90° stops\n- Versatile belt and disc sanding allows for multiple sanding angles\n- Disc Diameter (In.): 12.0000\n- Disc Speed (RPM): 2,375\n- Dust Collection Minimum CFM Required (CFM): 400\n- Dust Port Outside Diameter (In.): 4\n- Motor Amps: 14/7\n- Motor Power (HP): 1-1/2",
+    "special_comments": "Please do not wear gloves while handling this machine",
+    "required_ppe": "Eyeglasses",
+    "required_training": "None"
+  }
+]
